@@ -1,0 +1,14 @@
+cuboid,year,region,category,segment,total_sales
+APEX,ALL,ALL,ALL,ALL,1984268.7
+category,ALL,ALL,Apparel,ALL,253506.15
+category,ALL,ALL,Electronics,ALL,1663710.55
+category,ALL,ALL,Grocery,ALL,58898.0
+category,ALL,ALL,Stationery,ALL,8154.0
+region,ALL,North,ALL,ALL,485711.4
+region,ALL,South,ALL,ALL,621737.05
+region,ALL,West,ALL,ALL,876820.25
+segment,ALL,ALL,ALL,Bronze,590088.8
+segment,ALL,ALL,ALL,Gold,752558.3
+segment,ALL,ALL,ALL,Silver,641621.6
+year,2024,ALL,ALL,ALL,1105037.4
+year,2025,ALL,ALL,ALL,879231.3

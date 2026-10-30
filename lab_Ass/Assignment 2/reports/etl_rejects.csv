@@ -1,0 +1,6 @@
+txn_id,reason
+5,duplicate txn_id
+301,quantity <= 0
+302,missing quantity
+303,invalid date
+304,discount out of range
